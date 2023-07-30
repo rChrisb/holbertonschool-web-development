@@ -138,6 +138,8 @@ h2 {
 .pros p {
   font-size: 16px;
   color: #fff;
+  width: 120%;
+  transform: translateX(-10%);
 }
 .quote {
   background-color: #c271ff;
